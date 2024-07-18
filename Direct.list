@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,registry.cyou
-
+# 端口
+DST-PORT,22,DIRECT
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
