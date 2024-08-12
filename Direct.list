@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ipconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,registry.cyou
 DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,mtmt.tech
 # 端口
 DST-PORT,22,DIRECT
 
