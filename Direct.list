@@ -19,6 +19,8 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+#USA server
+IP-CIDR,64.112.43.28/32,no-resolve
 IP-CIDR,192.168.2.5/32,DIRECT
 
 # 国内DNS
