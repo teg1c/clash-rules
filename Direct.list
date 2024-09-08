@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,registry.cyou
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,mtmt.tech
+DOMAIN-SUFFIX,caches.dev
 # 端口
 DST-PORT,22,DIRECT
 
