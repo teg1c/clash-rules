@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,mtmt.tech
 DOMAIN-SUFFIX,caches.dev
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,unpkg.com
 # 端口
 DST-PORT,22,DIRECT
 
